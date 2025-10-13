@@ -76,6 +76,6 @@ A collaborative full-stack web app replicating Stack Overflow’s Q&A environmen
 ### 🏗️ GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sortizb&show_icons=true&theme=react" />
+  <!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sortizb&show_icons=true&theme=react" /> -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortizb&layout=compact&theme=react" />
 </p>
